@@ -1,0 +1,8 @@
+body {
+  background-color: tomato;
+}
+
+.liststyle {
+  list-style: none;
+  border: 1.5px solid red;
+}
